@@ -1,5 +1,5 @@
 "id","category","name","price","coin","description","register","amount","imageuri","details"
-"2","Pizza","Muzzarela","null","Una marca","Una descripcion","Una marca","null","pizza","editado2"
+"2","Pizza","Muzzarela","null","Una marca","Una descripcion","Una marca","null","pizza","editado"
 "3","Pizza","Muzza c/ criolla","2200","null","Una descripcion","Una marca","0","pizza","detalles"
 "4","Pizza","Muzza c/ huevo duro","2000","null","Una descripcion","Una marca","null","pizza","detalles"
 "5","Pizza","Muzza c/ jamon","2300","null","Una descripcion","Una marca","-1","pizza","detalles"
