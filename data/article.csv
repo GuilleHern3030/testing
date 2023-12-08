@@ -1,3 +1,3 @@
 "id","category","name","price","coin","description","register","amount","imageuri","details"
-"1","Pizza","Muzzarela","null","$","null","null","null","null","null"
-"1","Milanesas","Milanga","null","$","null","null","null","null","null"
+"1","Milanesas","Milanga",NULL,NULL,NULL,NULL,NULL,"1.png",NULL
+"2","Pizza","Muzzarela",NULL,NULL,NULL,NULL,NULL,"https://es.wikipedia.org/wiki/Imagen#/media/Archivo:Image_created_with_a_mobile_phone.png",NULL
